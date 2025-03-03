@@ -1,0 +1,7 @@
+﻿  Generalized inverse.cpp
+D:\南台\VS\C++\Generalized inverse\Generalized inverse\Generalized inverse.cpp(32,30): warning C4244: '=': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  Generalized inverse.vcxproj -> D:\南台\VS\C++\Generalized inverse\x64\Debug\Generalized inverse.exe

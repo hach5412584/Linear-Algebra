@@ -1,0 +1,7 @@
+﻿  GS.cpp
+D:\南台\VS\C++\GS\GS\GS.cpp(26,30): warning C4244: '=': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  GS.vcxproj -> D:\南台\VS\C++\GS\x64\Debug\GS.exe

@@ -1,0 +1,7 @@
+﻿  Gram-Schmidt orthogonalization.cpp
+D:\南台\VS\C++\Gram-Schmidt orthogonalization\Gram-Schmidt orthogonalization\Gram-Schmidt orthogonalization.cpp(43,30): warning C4244: '=': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+  Gram-Schmidt orthogonalization.vcxproj -> D:\南台\VS\C++\Gram-Schmidt orthogonalization\x64\Debug\Gram-Schmidt orthogonalization.exe
